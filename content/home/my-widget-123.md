@@ -1,6 +1,6 @@
 ---
-widget: testxx
-widget_id: my-widget-123
+widget: post/testxx
+widget_id: 测试文章
 headless: true
 weight: 10
 active: true
